@@ -1,0 +1,281 @@
+<resources>
+    <string name="app_name">Glad 2 Glow Official Store</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+
+    <string name="profile">Profile</string>
+    <string name="profile_name">Nabila Khairunnisa</string>
+    <string name="role">Android Developer</string>
+    <string name="email">nnabilakhairunnisaa@gmail.com</string>
+    <string name="link_email">mailto:nnabilakhairunnisaa@gmail.com</string>
+    <string name="phone">+628 123 456 789</string>
+    <string name="link_phone">https://api.whatsapp.com/send?phone=</string>
+    <string name="github">nabilaakhairunnisa</string>
+    <string name="link_github">https://github.com/nabilaakhairunnisa</string>
+    <string name="linkedIn">Nabila Khairunnisa</string>
+    <string name="link_linkedIn">https://www.linkedin.com/in/nabila-khairunnisa-44279026b/</string>
+    <string name="instagram">nabilakhairuunnisa</string>
+    <string name="link_instagram">https://instagram.com/nabilakhairuunnisa</string>
+
+    <string name="price">Rp. %d</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d Rupiah</string>
+    <string name="total_order">Total pesanan : %d Rupiah</string>
+    <string name="back">Back</string>
+    <string name="my_skincare">My Skincare</string>
+    <string name="share_message">Hey, I bought %1$d skincare in Glad 2 Glow Official Store with total Rp. %2$d. Do you want too?</string>
+    <string name="tittle1">Glad2Glow Yuja Symwhite 377 Dark Spot Serum</string>
+    <string name="tittle2">Glad2Glow Pomegranate 5% Niacinamide Brightening Moisturizer</string>
+    <string name="tittle3">Glad2Glow Blueberry Ceramide Low ph Gel Cleanser</string>
+    <string name="tittle4">Glad2Glow Light Sunscreen Gel SPF 50 PA+++</string>
+    <string name="tittle5">Glad2Glow Centella 2% Salicylic Acid Overnight Acne Spot Treatment </string>
+    <string name="tittle6">Glad2Glow Milk Amino Acid Gentle Cleanser Face Wash</string>
+    <string name="tittle7">Glad2Glow Berry Peptide Brightening Eye Cream</string>
+    <string name="tittle8">Glad2Glow Volcano Clay Mask Stick</string>
+    <string name="tittle9">Glad2Glow Pomegranate 10% Niacinamide Power Bright Serum </string>
+    <string name="tittle10">Glad2Glow Centella Allantoin Soothing Gel Moisturizer</string>
+    <string name="description1">
+        Deskripsi Produk:\n
+        Serum dengan kandungan Symwhite 377 dan ekstrak Yuja yang dapat membantu menyamarkan noda hitam bekas jerawat serta noda bekas kemerahan. Tekstur ringan yang mudah meresap serta gentle untuk kulit wajah. Dapat digunakan pagi dan malam hari. \n\n
+
+        Ukuran: 17ml \n\n
+
+        No BPOM: NA112301900038 \n\n
+
+        Manfaat: \n
+        1. Menyamarkan noda hitam bekas jerawat \n
+        2. Menyamarkan PIE dan PIH \n
+        3. Membantu mencerahkan kulit kusam \n\n
+
+        Hero Ingredients: \n
+        1. Symwhite 377 : Membantu mencerahkan kulit yang kusam \n
+        2. Yuja Extract : Membantu mencerahkan kulit wajah secara merata,  serta membantu memudarkan noda hitam dan bekas jerawat \n\n
+
+        Cara pemakaian: \n
+        1. Ambil produk secukupnya \n
+        2. Oleskan secara merata ke seluruh wajah  \n
+        3. Gunakan setelah penggunaan toner \n
+        4. Penggunaan pada pagi hari, lanjutkan dengan sunscreen/tabir surya
+    </string>
+    <string name="description2">
+        Deskripsi Produk: \n
+        Moisturizer dengan kandungan Pomegranate dan 5% Niacinamide yang dapat mencerahkan sekaligus membantu meratakan warna kulit. Memiliki tekstur ringan yang mudah meresap,  dapat digunakan pada pagi dan malam hari. \n\n
+
+        Ukuran: 30 gram \n\n
+
+        No BPOM: NA11230100186 \n\n
+
+        Manfaat: \n
+        1. Mencerahkan kulit \n
+        2. Membantu meratakan warna kulit \n
+        3. Menjaga kelembaban kulit \n\n
+
+        Hero Ingredients: \n
+        1. Niacinamide : Membantu mencerahkan kulit,  memudarkan noda hitam dan meratakan warna kulit \n
+        2. Pomegranate Extract : mengandung asam lemak berupa Punicic Acid,  membantu mencerahkan kulit \n\n
+
+        Cara pemakaian: \n
+        1. Ambil produk secukupnya \n
+        2. Oleskan secara merata ke seluruh wajah  \n
+        3. Gunakan pada tahap akhir skincare \n
+        4. Penggunaan pada pagi hari,  lanjutkan dengan sunscreen/tabir surya \n
+    </string>
+    <string name="description3">
+        Deskripsi Produk: \n
+        Glad2Glow Blueberry Ceramide Low ph Gel Cleanser merupakan pembersih wajah dengan ph rendah (5.5~6) yang mendekati ph kulit,  terasa lembut untuk kulit dan skin barrier. Mengandung Ceramide dan Centella Asiatica,  menjaga kelembaban kulit serta membantu mengontrol minyak berlebih pada wajah. Dengan tekstur gel,  menghasilkan busa yang halus dan lembut,  membersihkan kulit wajah sekaligus melembabkan. \n\n
+
+        Ukuran: 70 ml \n\n
+
+        No BPOM: NA11231200918 \n\n
+
+        Manfaat: \n
+        1. Membersihkan kotoran dan minyak tanpa rasa kering tertarik\n
+        2. Ph level 5.5 yang nyaman untuk skin barrier\n
+        3. Membuat kulit terasa bersih dan segar\n\n
+
+        Hero Ingredients:\n
+        1. Blueberry Extract: Menenangkan kulit dan merawat kemerahan\n
+        2. Centella Asiatica: Membantu merawat kulit berjerawat\n
+        3. Ceramide: Menjaga skin barrier dan melembabkan\n\n
+
+        Cara pemakaian:\n
+        1. Basahi wajah dengan air,  ambil produk secukupnya \n
+        2. Busakan produk kemudian aplikasikan dan pijat ke seluruh wajah \n
+        3. Bilas dengan air hingga bersih \n
+    </string>
+    <string name="description4">
+        Deskripsi Produk: \n
+        Sunscreen dengan tekstur ringan yang memberikan proteksi SPF 50 PA+++. Melindungi kulit dari bahaya paparan sinar UVA dan UVB,  serta mengandung Ceramide dan Muti-plan Extract yang berfungsi memberikan kelembaban dan menjaga skin barrier. Sunscreen ini mudah meresap,  tidak lengket dan tidak meninggalkan whitecast. \n\n
+
+        Ukuran: 30 gr \n\n
+
+        No BPOM: NA11221700030 \n\n
+
+        Manfaat: \n
+        1. Melindungi kulit dari paparan sinar UV \n
+        2. Memberikan kelembaban pada kulit \n
+        3. Menjaga skin barrier kulit \n\n
+
+        1. Hero Ingredients: \n
+        2. Ceramide : menjaga skin barrier \n
+        3. Muti-plan : memberikan hidrasi pada kulit dan menjaga kelembaban kulit \n\n
+
+        Cara pemakaian: \n
+        1. Ambil produk sebanyak yang diperlukan sesuai takaran sunscreen harianmu \n
+        2. Aplikasikan secara merata ke seluruh wajah hingga leher dan telinga \n
+        3. Lakukan pengaplikasikan ulang apabila diperlukan \n
+        4. Gunakan pada tahap akhir skincare pagimu \n
+    </string>
+    <string name="description5">
+        Deskripsi Produk: \n
+        Acne spot treatment dengan gel texture untuk meredakan jerawat dan kemerahan. Kandungan centella asiatica,  Salicylic acid dan Niacinamide membantu menenangkan kulit dan jerawat. Direkomendasikan untuk digunakan di malam hari atau pagi dan malam hari untuk hasil optimal.
+
+        Ukuran: 5 g \n\n
+
+        No BPOM: NA11220100348 \n\n
+
+        Manfaat: \n
+        1. Meredakan jerawat dan kemerahan\n
+        2. Menenangkan kulit berjerawat\n
+        3. Mencegah munculnya bekas jerawat\n\n
+
+        Cara pemakaian: \n
+        1. Aplikasikan acne spot ke jerawat\n
+        2. Gunakan di pagi dan malam hari untuk hasil optimal\n
+
+        Hero Ingredients: \n
+        1. Centella Asiatica: Menenangkan dan merawat kulit berjerawat \n
+        2. Salicylic Acid: Meredakan kemerahan akibat jerawat\n
+        3. Niacinamide: Membantu mencerahkan kulit\n\n
+
+        Ingredients: \n
+        Water,  Butylene Glycol,  Salvia Miltiorrhiza Root Extract,  Centella Asiatica Extract,  Spiraea Ulmaria Extract,  Salicylic Acid,  Niacinamide,  Amylopectin,  Glycerin,  Xanthan Gum,  Cyclodextrin,  Pionin,  Ceramide 3,  Ceramide 6 Ii,  Ceramide 1,  Portulaca Oleracea Extract,  Panthenol,  Sodium Hyaluronate,  Beta-Glucan,  Lactobacillus/Soymilk Ferment Filtrate,  Pentylene Glycol,  Hydroxyphenyl Propamidobenzoic Acid,  Juniperus Communis Fruit Extract,  Morus Alba Root Extract,  Perilla Ocymoides Leaf Extract,  Hemerocallis Fulva Flower Extract,  Maltodextrin,  Calcium Pantothenate,  Urea,  Caprylyl Glycol,  Ethylhexylglycerin,  Papain,  Sodium Citrate,  Magnesium Chloride,  Magnesium Lactate,  Potassium Lactate,  Serine,  Alanine,  Proline,  Glycolic Acid,  Caprylhydroxamic Acid,  Butylene Glycol,  O-Cymen-5-Ol,  1,  2-Hexanediol,  Acrylates/C10-30 Alkyl Acrylate Crosspolymer,  Zinc Pca,  Allantoin,  Dipotassium Glycyrrhizate,  Phytosphingosine,  Cholesterol,  Sodium Lauroyl Lactylate,  Carbomer \n\n
+    </string>
+    <string name="description6">
+        Deskripsi Produk: \n
+        Glad2Glow Milk Amino Acid Gentle Cleanser Face Wash merupakan pembersih wajah dengan tekstur lembut dan foam yang kaya,  membersihkan dengan mendalam tanpa meninggalkan residu. Mengandung Amino Acid dan Milk,  menjaga kulit tetap lembab dan merawat skin barrier,  serta membuat kulit bersih dan cerah. Kemasan pump dengan botol slim yang mudah disimpan dan dibawa,  lebih higienis. Dapat digunakan pagi dan malam hari,  serta nyaman untuk semua jenis kulit. \n\n
+
+        Ukuran: 80 ml\n\n
+
+        No BPOM: NA11231200916\n\n
+
+        Manfaat: \n
+        1. Membersihkan kotoran dan makeup sehari-hari \n
+        2. Kulit terasa lembab dan halus \n
+        3. Kemasan pump slim yang mudah digunakan\n
+        4. Membuat kulit bersih dan cerah\n\n
+
+        Hero Ingredients: \n
+        1. Amino Acids : Efektif membersihkan dengan lembut sekaligus menjaga kelembaban dan hidrasi kulit\n
+        2. Milk : Mengangkat sel kulit mati serta mencerahkan kulit\n\n
+
+        Cara pemakaian: \n
+        1. Basahi wajah dengan air,  ambil produk secukupnya\n
+        2. Busakan produk kemudian aplikasikan dan pijat ke seluruh wajah\n
+        3. Bilas dengan air hingga bersih\n
+    </string>
+    <string name="description7">
+        Deskripsi Produk: \n
+        Eye cream yang dapat meredakan puffy eyes dan mencerahkan lingkar hitam area mata dengan kandungan Niacinamide dan Caffeine. Dilengkapi Crystal pen massager dengan teknologi micro electric yang dapat berotasi 180 derajat menjangkau area sudut mata dan memberikan sensasi dingin terasa seperti eye treatment profesional. Juga kandungan Berry extract dan 3D peptides yang membantu menjaga elastisitas kulit area mata. \n\n
+
+        Ukuran: 15g\n\n
+
+        No BPOM: NA11220100445\n\n
+
+        Manfaat: \n
+        1. Mengurangi lingkar hitam area mata\n
+        2. Mencerahkan lingkar hitam area mata\n
+        3. Menjaga kulit area mata elastis\n\n
+
+        Cara pemakaian: \n
+        1. Tekan produk secukupnya\n
+        2. Nyalakan indikator on/off untuk mengaktifkan getaran aplikator \n
+        3. Pijatkan aplikator ke area mata hingga produk terserap ke kulit\n\n
+
+        Hero Ingredients: \n
+        1. Berry extract: Melembabkan dan mencerahkan kulit\n
+        2. 3D Peptides: Membantu menjaga elastisitas kulit\n
+        3. Niacinamide: Membantu mencerahkan kulit\n
+        4. Caffeine: Meredakan puffy eyes \n\n
+
+        Ingredients:\n
+        Aqua, Glycerin, Dimethicone, Methylpropanediol, Coco-Caprylate/Caprate, Maris Aqua, Cyclopentasiloxane, Cetyl Alcohol, Octyldodecanol, Glyceryl Stearate, Niacinamide, Cyclohexasiloxane, Hydroxyacetophenone, 1, 2-Hexanediol, Methyl Hydrogenated Rosinate, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Peg-75 Stearate, Tocopheryl Acetate, Steareth-20, Ceteth-20, Butylene Glycol, Bisabolol, Pentylene Glycol, Lactobacillus/Soymilk Ferment Filtrate, Gentiana Scabra Root Extract, Hydroxyphenyl Propamidobenzoic Acid, Caffeine, Sodium Hyaluronate, Palmitoyl Pentapeptide-4, Tocopherol, Ceramide Eop, Ceramide Ap, Ceramide Ns/Ceramide Ng, Ceramide As, Acetyl Tetrapeptide-5, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Chondrus Crispus Extract, Smithsonite Extract, Peumus Boldus Leaf Extract, Moringa Oleifera Seed Extract, Zea Mays (Corn) Kernel Extract, Palmaria Palmata Extract, Phytosteryl/Octyldodecyl Lauroyl Glutamate, Ceramide Np, Echinacea Purpurea Extract, Ascorbyl Palmitate, Lycium Barbarum Fruit Extract, Trehalose, Sophora Flavescens Root Extract, Aloe Barbadensis Leaf Extract, Hydrogenated Lecithin, Dendrobium Nobile Stem Extract, Erythritol, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium Edta, Cyclodextrin, Polysorbate 20, Carbomer, Arginine \n\n
+    </string>
+    <string name="description8">
+        Deskripsi Produk: \n
+        Glad2Glow Volcano Salicylic Acid Acne Control Clay Mask Stick
+        Alaska Volcano Pore Detox Clay Stick mengandung partikel halus yang secara alami dapat mengeksfoliasi kulit wajah menjadi lebih bersih dan bebas komedo ataupun tersumbat. Dilengkapi dengan Glycolic Acid dan Probiotic Complex untuk menjaga skin barrier serta menyegarkan kulit. Dengan tekstur yang lembut dan mudah diaplikasikan,  tanpa menyebabkan sensasi kulit tertarik atau kencang,  memiliki kekuatan pembersihan mendalam untuk membersihkan wajah secara maksimal. Coverage yang baik,  dengan 1 usapan dapat menutup satu area pada wajah. Hasil penggunaan pori-pori tampak lebih mengecil,  kulit bersih dan halus. \n\n
+
+        Ukuran: 25 gr\n\n
+
+        No BPOM: NA11230200141\n\n
+
+        Manfaat: \n
+        1. Membersihkan pori secara mendalam dan lembut \n
+        2. Mengeksfoliasi kulit wajah \n
+        3. Menjaga skin barrier\n
+        4. Menjadikan kulit lebih halus dan bersih\n\n
+
+        Cara pemakaian: \n
+        1. Ambil produk secukupnya,  kemudian oleskan pada wajah dan hindari area mata\n
+        2. Diamkan selama 10-15 menit,  kemudian bilas dengan air \n
+        3. Gunakan 2-3 kali seminggu untuk hasil maksimal \n
+    </string>
+    <string name="description9">
+        Deskripsi Produk: \n
+        Serum pencerah dengan tekstur yang ringan dan mudah menyerap yang aman digunakan sehari-hari. Dengan kandungan 10% Niacinamide,  Pomegranate,  dan Alpha arbutin yang efektif bekerja mencerahkan warna kulit dan memudarkan bekas-bekas jerawat atau dark spots,  menjadikan kulit terasa halus,  lembut,  dan bersih. Dapat digunakan di pagi dan malam hari. \n\n
+
+        Ukuran: 17 ml\n\n
+
+        No BPOM: NA11221900029\n\n
+
+        Manfaat: \n
+        1. Membuat warna kulit lebih merata\n
+        2. Menyamarkan bekas jerawat atau dark spots\n
+        3. Membuat kulit terasa lebih halus dan lembut\n
+
+        Cara pemakaian: \n
+        1. Ambil produk secukupnya\n
+        2. Aplikasikan secara merata ke seluruh wajah\n
+        3. Gunakan pagi dan malam hari dilanjutkan dengan moisturizer\n\n
+
+        Cautions: \n
+        1.For external use only\n
+        2.Avoid contact with eyes dan broken skin\n
+        3.Discontinue use if signs of irritation appear\n
+        4.Protect from direct sunlight\n
+        5.Keep out of reach of children\n
+
+        Hero Ingredients: \n
+        1. Pomegranate: Mengandung Punicic Acid untuk mencerahkan kulit \n
+        2. 10% Niacinamide: Membantu mencerahkan kulit\n
+        3. Alpha Arbutin: Membantu efektivitas Niacinamide pada kulit \n\n
+
+        Ingredients: \n
+        Aqua,  Butylene Glycol,  Niacinamide,  Propylene Glycol,  Alpha-Arbutin,  Peg/Ppg-14/7 Dimethyl Ether,  1, 2-Hexanediol,  Bis-Peg-18 Methyl Ether Dimethyl Silane,  Sodium Polyacryloyldimethyl Taurate,  Hydrogenated Lecithin,  Allantoin,  Tranexamic Acid,  Acrylates/C10-30 Alkyl Acrylate Crosspolymer,  Punica Granatum Fruit Extract,  Gentiana Scabra Root Extract,  Pentylene Glycol,  Isohexadecane,  Fructose,  Chondrus Crispus Extract,  Propanediol,  Disodium Edta,  Centella Asiatica Extract,  Sodium Hyaluronate,  Avena Sativa (Oat) Kernel Extract,  Aminomethyl Propanol,  Yeast Extract,  Peg-7 Glyceryl Cocoate,  Phosphatidylcholine,  Ethylhexylglycerin,  Ceramide Np,  Phytosterols,  Crocus Sativus Flower Extract,  Sodium Stearoyl Glutamate,  Glycerin,  Hydroxyacetophenone,  Citric Acid,  Soy Amino Acids,  Avena Sativa (Oat) Kernel Oil\n\n
+    </string>
+    <string name="description10">
+        Deskripsi Produk: \n
+        Moisturizer dengan tekstur gel ringan dengan efek cooling yang menenangkan kulit,  untuk meredakan kulit sensitif dan kemerahan dengan gabungan kandungan dari Centella Asiatica dan Allantoin. Moisturizer ini memberikan hidrasi yang cukup dan membantu mengontrol minyak. Cocok untuk kulit oily,  acne-prone skin. \n\n
+
+        Ukuran:55 /30 gr\n\n
+
+        No BPOM: NA11230100182\n\n
+
+        Manfaat: \n
+        1. Menenangkan kulit \n
+        2. Membantu meredakan kulit yang sedang sensitif\n
+        3. Membantu mengontrol minyak pada wajah\n
+        4. Menjaga hidrasi dan kelembapan kulit\n\n
+
+        Hero Ingredients: \n
+        1. Centella : Menenangkan kulit dan membantu mengatasi kulit berjerawat\n
+        2. Allantoin : Memberikan hidrasi yang diperlukan kulit dan menjaga kelembaban \n\n
+
+        Cara pemakaian: \n
+        1. Ambil produk secukupnya,  kemudian oleskan pada wajah \n
+        2. Gunakan pagi dan malam hari,  apabila pada pagi hari lanjutkan dengan sunscreen \n\n
+
+        Ingredients: \n
+        water,   dipropylene glycol,  diethoxyethyl succinate,  acrylates/c10-30 alkyl acrylate crosspolymer,  erythritol,  tromethamine,  butylene glycol,  1, 2-hexanediol,  pentylene glycol,  centella asiatica extract,  allantoin,  glycerophosphoinositol choline,  ethylhexylglycerin,  avena sativa (oat) kernel extract,  hydroxyphenyl propamidobenzoic acid,  ascorbyl palmitate,  pentasodium pentetate,  phytic acid,  silver oxide,  ammonium acryloyldimethyltaurate/vp copolymer,  propanediol,  phenoxyethanol,  chlorella vulgaris extract,  lactic acid,  phaeodactylum tricornutum extract,  lecithin,  sodium ascorbate,  tocopherol.\n
+    </string>
+</resources>
