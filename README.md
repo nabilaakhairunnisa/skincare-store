@@ -1,6 +1,6 @@
 ## Skincare Store
 
-Adalah aplikasi toko skincare menggunakan Jetpack Compose Framework. 
+Aplikasi toko skincare menggunakan Jetpack Compose Framework. 
 
 <img src="https://github.com/nabilaakhairunnisa/skincare-store/blob/master/mockup.png"
      alt="Main Activity"
